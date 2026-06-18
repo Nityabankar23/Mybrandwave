@@ -1,0 +1,12 @@
+# Ignore database and spreadsheet files
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+messages.csv
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
